@@ -1,3 +1,8 @@
-# Otobüs Bilet Rezervasyon Uygulaması
+# React + Vite
 
-Bu proje, Türkiye içindeki şehirler arası otobüs seyahatleri için online bilet satışı sağlayan bir web platformudur. Kullanıcılar, çeşitli otobüs şirketlerinin seferlerini görüntüleyebilir, biletlerini seçebilir ve satın alabilirler. Web sitemiz, kullanıcı dostu arayüzü ve güvenli ödeme seçenekleri ile seyahat planlama sürecini kolaylaştırır. Proje, <strong>React.js</strong> UI olan <strong>Ant Design</strong> ile geliştirilmiş olup modern web teknolojileri ve en iyi uygulamaları kullanarak tasarlanmıştır.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
